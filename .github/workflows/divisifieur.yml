@@ -22,4 +22,3 @@ jobs:
           name: Arti Divisifieur
           path: build/libs/*.jar
 
-      
