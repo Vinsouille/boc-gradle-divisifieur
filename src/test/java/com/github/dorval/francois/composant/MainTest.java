@@ -17,7 +17,7 @@ public class MainTest {
 
         Main.main(new String[]{"6", "2"});
 
-        Assert.assertEquals("6/2=3\r\n", bos.toString());
+        Assert.assertEquals("6/2=3\n", bos.toString());
 
         System.setOut(originalOut);
     }
