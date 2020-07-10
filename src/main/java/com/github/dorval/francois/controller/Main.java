@@ -21,12 +21,7 @@ public class Main {
 
         System.out.println(dividende+"/"+diviseur+"=" +quotient);
 
-        if (diviseur == 0){
-            throw new IllegalArgumentException(Errors.PAS_DE_DIV_PAR_0);
         }
-
-
-    }
 
 }
 
